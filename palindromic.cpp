@@ -18,3 +18,4 @@ bool checkPalindrome(string s) {
         return true;
 
 }
+
